@@ -12,7 +12,7 @@ ecoRelevé Core is a free and open source ser
 Screens shots
 ------------
 
-![Screens](https://raw.github.com/NaturalSolutions/ecoReleve-Explorer/master/Screens/splash.png)
+![Screens](https://raw.github.com/NaturalSolutions/)
 
 Installation notes
 -----------------
