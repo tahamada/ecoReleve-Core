@@ -3,7 +3,7 @@ ecoReleve-Core
 
 A free and open source biodiversity data management software.
 
-![ecoReleve](https://github.com/NaturalSolutions/ecoReleve/blob/master/Logos/logo-LABS_Core.jpg)
+![ecoReleve](https://github.com/NaturalSolutions/ecoReleve/blob/master/Logos/logo-LABS_Core(2).jpg)
 
 This Software allow data browsing and mapping.
 
