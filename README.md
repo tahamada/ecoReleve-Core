@@ -17,8 +17,8 @@ Screens shots
 Installation notes
 -----------------
  * Deploy on a apache server, with "sqlserver for php" plugin
- * Sqlserver database with a eReleve base (Natural Solution's base)
- * Sqlserver native client 2012 
+ * Have sqlserver database with a eReleve base (Natural Solution's base)
+ * Intall sqlserver native client 2012 
 
 
 Contributing
